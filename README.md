@@ -1,5 +1,6 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:08111F,55:075985,100:06B6D4&amp;height=210&amp;section=header&amp;text=AKHIL%20KUMAR%20MANGALARAPU&amp;fontSize=32&amp;fontColor=E6F7FF&amp;fontAlignY=38&amp;desc=AI%20%26%20MLOps%20Engineer%20%7C%20AI%20Agents%20%7C%20Cloud-Native%20Platforms&amp;descSize=14&amp;descAlignY=60&amp;descColor=B7E9F5" alt="Dark navy and cyan banner introducing Akhil Kumar Mangalarapu as an AI and MLOps Engineer" />
+	<strong>AKHIL KUMAR MANGALARAPU</strong><br />
+	AI &amp; MLOps Engineer | AI Agents | Cloud-Native Platforms
 </p>
 
 <p align="center">
