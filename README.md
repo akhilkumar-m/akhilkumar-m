@@ -9,7 +9,8 @@
 <p align="center">
 	<a href="https://github.com/akhilkumar-m"><img src="https://img.shields.io/badge/GitHub-akhilkumar--m-111827?style=flat&logo=github&logoColor=white" alt="GitHub profile: akhilkumar-m" /></a>
 	<a href="https://www.linkedin.com/in/akhil-kumar-m-10867116a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect with Akhil on LinkedIn" /></a>
-	<a href="https://huggingface.co/YOUR_HUGGINGFACE_USERNAME"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=flat&logo=huggingface&logoColor=111827" alt="Hugging Face profile placeholder; replace YOUR_HUGGINGFACE_USERNAME" /></a>
+	<a href="https://huggingface.co/AkhilKumar102"><img src="https://img.shields.io/badge/Hugging%20Face-AkhilKumar102-FFD21E?style=flat&logo=huggingface&logoColor=111827" alt="Hugging Face profile: AkhilKumar102" /></a>
+	<a href="tel:+917981453136"><img src="https://img.shields.io/badge/Phone-%2B91%2079814%2053136-138A5B?style=flat" alt="Call +91 7981453136" /></a>
 	<a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=flat&logo=minutemailer&logoColor=white" alt="Email placeholder; replace YOUR_EMAIL_ADDRESS" /></a>
 	<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio website placeholder; replace YOUR_PORTFOLIO_URL" /></a>
 </p>
@@ -104,7 +105,8 @@ Tools below reflect technologies represented in my projects and current platform
 <p align="center">
 	<a href="https://www.linkedin.com/in/akhil-kumar-m-10867116a/"><img src="https://img.shields.io/badge/LinkedIn-Akhil%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Akhil Kumar on LinkedIn" /></a>
 	<a href="https://github.com/akhilkumar-m"><img src="https://img.shields.io/badge/GitHub-akhilkumar--m-111827?style=flat&logo=github&logoColor=white" alt="Akhil Kumar on GitHub" /></a>
-	<a href="https://huggingface.co/YOUR_HUGGINGFACE_USERNAME"><img src="https://img.shields.io/badge/Hugging%20Face-Replace%20profile-FFD21E?style=flat&logo=huggingface&logoColor=111827" alt="Hugging Face profile placeholder; replace YOUR_HUGGINGFACE_USERNAME" /></a>
+	<a href="https://huggingface.co/AkhilKumar102"><img src="https://img.shields.io/badge/Hugging%20Face-AkhilKumar102-FFD21E?style=flat&logo=huggingface&logoColor=111827" alt="Hugging Face profile: AkhilKumar102" /></a>
+	<a href="tel:+917981453136"><img src="https://img.shields.io/badge/Phone-%2B91%2079814%2053136-138A5B?style=flat" alt="Call +91 7981453136" /></a>
 	<a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-Replace%20address-06B6D4?style=flat&logo=minutemailer&logoColor=white" alt="Email placeholder; replace YOUR_EMAIL_ADDRESS" /></a>
 	<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Replace%20URL-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio placeholder; replace YOUR_PORTFOLIO_URL" /></a>
 </p>
